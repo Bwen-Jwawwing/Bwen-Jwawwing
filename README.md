@@ -1,4 +1,6 @@
 ### Hi there 👋
+I'm [Ben](https://github.com/BenjammingKirby)
+this is my test account
 
 <!--
 **Bwen-Jwawwing/Bwen-Jwawwing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
